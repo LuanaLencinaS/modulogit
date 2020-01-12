@@ -11,5 +11,3 @@ Nova linha para testar o git diff
 Mais um teste.
 
 Sistema atualizado e no repositório remoto.
-
-Alterando, teste do git revert.
